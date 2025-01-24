@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontSize": 20,
+    "files.readonlyFromPermissions": true,
+    "files.readonlyInclude": {
+        "/usr/include/**/*.h": true
+    },
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}
