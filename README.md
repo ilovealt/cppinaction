@@ -1,10 +1,5 @@
 # cppinaction
-C、CPP基础代码实战
-
-## 先学C语言
-[C Tutorial(推荐)](https://www.geeksforgeeks.org/c-programming-language/)
-[C Tutorial](https://www.w3schools.com/c/index.php)
-
+CPP基础代码实战
 
 ## 再学CPP
 [C++ Tutorial(推荐)](https://www.geeksforgeeks.org/c-plus-plus/?ref=shm)
